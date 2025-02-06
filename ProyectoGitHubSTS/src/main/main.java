@@ -14,5 +14,10 @@ public class main {
 		System.out.println(objetoA.toString());
 		System.out.println(objetoB.toString());
 		System.out.println(objetoC.toString());
+		
+		//7.2.Modificando el código local y subiendolo a GitHub
+		ObjectC objetoC2 = new ObjectC(2,"Antonia","Almeria");
+		System.out.println(objetoC2.toString());
+		
 	}
 }
