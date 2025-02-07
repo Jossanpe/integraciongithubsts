@@ -18,6 +18,10 @@ public class main {
 		//7.2.Modificando el código local y subiendolo a GitHub
 		ObjectC objetoC2 = new ObjectC(2,"Antonia","Almeria");
 		System.out.println(objetoC2.toString());
+
+		//7.6.1. Creando Rama para el desarrollador-1
+		ObjectB objetoB2= new ObjectB(2,"Loren",46);
+		System.out.println(objetoB2.toString());
 		
 	}
 }
